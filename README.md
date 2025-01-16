@@ -1,4 +1,5 @@
 Welcome to David Hoang's GitHub
+
 👋 Hi there! I'm David Hoang, a passionate Product Manager with a proven track record of delivering impactful SaaS solutions and scaling platforms in high-growth environments. I thrive on solving complex problems, collaborating across teams, and creating user-centric products that drive measurable results. My journey spans across industries, from tech startups to social services, where I've developed a diverse skill set and a strong focus on innovation.
 
 🔧 What I Do
